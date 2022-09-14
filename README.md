@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/nota-aluno-java-exercicio"><strong>Explorar arquivos »</strong></a>
+    <a href="https://github.com/fmachadoweb/nota-aluno-java-exercicio2"><strong>Explorar arquivos »</strong></a>
     <br />
     <br />
   </p>
@@ -29,7 +29,7 @@
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
-Project Link: [https://github.com/fmachadoweb/nota-aluno-java-exercicio](https://github.com/fmachadoweb/nota-aluno-java-exercicio)
+Project Link: [https://github.com/fmachadoweb/nota-aluno-java-exercicio2](https://github.com/fmachadoweb/nota-aluno-java-exercicio2)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
