@@ -17,7 +17,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/fmachadoweb/nota-aluno-java-exercicio-grade"><strong>Explorar arquivos »</strong></a>
+    <a href="https://github.com/fmachadoweb/advanced-student-grade-in-java"><strong>Explorar arquivos »</strong></a>
     <br />
     <br />
   </p>
@@ -29,7 +29,7 @@
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
-Project Link: [https://github.com/fmachadoweb/nota-aluno-java-exercicio-grade](https://github.com/fmachadoweb/nota-aluno-java-exercicio-grade)
+Project Link: [https://github.com/fmachadoweb/advanced-student-grade-in-java](https://github.com/fmachadoweb/advanced-student-grade-in-java)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
