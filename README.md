@@ -11,7 +11,7 @@
 
   <h3 align="center">OPERADORES EM JAVA - NOTA ALUNO AVANÇADO</h3>
   
-  <p align="center">Exercício feito em Java onde se coloca a nota do aluno, se for maior ou igual a 70 ele mostra que o aluno foi aprovado, se for menor que 70 mostra que o aluno foi reprovado, agora nessa versão usando as funções switch e case para ficar mais organizado o código, o exercício anterior em seu código mais simples pode ser encontrado através do link <a href="https://github.com/fmachadoweb/nota-aluno-java-exercicio">nota aluno</a>. </p>
+  <p align="center">Exercício feito em Java onde se coloca a nota do aluno, se for maior ou igual a 70 ele mostra que o aluno foi aprovado, se for menor que 70 mostra que o aluno foi reprovado, agora nessa versão usando as funções switch e case para ficar mais organizado o código, o exercício anterior em seu código mais simples pode ser encontrado através do link <a href="https://github.com/fmachadoweb/student-grade-in-java">nota aluno</a>. </p>
   
   <p align="center">Curso <code>Let's Code.</code> </p>
 
